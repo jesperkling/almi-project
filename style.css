@@ -1,0 +1,72 @@
+.navbar-custom {
+  background-color: #f2f2f2;
+}
+
+.hero {
+  background-image: url(images/hero.png);
+  height: 40vh;
+}
+
+.herotext {
+  background-color: rgba(235, 228, 228, 0.8);
+}
+
+.btn {
+  background-color: #870aa0;
+  border: none;
+}
+
+.btn:hover {
+  text-decoration: underline;
+  background-color: #9d14b8;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.how-works {
+  background-color: #23c3ff;
+  height: auto;
+  color: white;
+}
+
+.card {
+  background-color: #ff5f0a;
+  color: white;
+}
+
+.grow {
+  transition: all 0.2s ease-in-out;
+}
+
+.grow:hover {
+  transform: scale(1.1);
+}
+
+.card:hover {
+  background-color: #ffbe9b;
+}
+
+.articles {
+  background-color: #00f0af;
+}
+
+.article {
+  background-color: #a5fae6;
+}
+
+.whyimg {
+  height: 200px;
+  width: auto;
+}
+
+.meeting {
+  background-color: #2819ff;
+  height: 20vh;
+}
